@@ -44,8 +44,6 @@ Cmd --> Command
 
 需要的时候执行 git mergetool 就会调起了。
 
-参考：<https://blog.kulman.sk/using-vscode-as-git-merge-tool/>
-
 ## 使用 VSCode 作为 git commit message 编辑器
 
 ```
@@ -56,7 +54,7 @@ git config --global core.editor "code -w"
 
 在 macOS，默认情况 VSCodeVim 模式下是不支持按键重复的，比如你在 Normal 模式下长按 `L`，结果光标只向右移动了一次，而没有像你预期的那样一直移动。
 
-启用按键重复的方法在插件的 REAME 有说明，链接：<https://github.com/VSCodeVim/Vim#mac>
+启用按键重复的方法在插件的 REAME 有说明。
 
 方法：
 

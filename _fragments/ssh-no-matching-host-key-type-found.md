@@ -42,4 +42,4 @@ Host old-host
 
 参考：
 
-- [解决 ssh 找不到对应主机密钥类型 - 程序员翔仔 - 博客园](https://www.cnblogs.com/fatedeity/p/17267481.html)
+解决 ssh 找不到对应主机密钥类型 - 程序员翔仔 - 博客园

@@ -250,8 +250,6 @@ Next
 dict.RemoveAll
 ```
 
-参考：[Excel vba map/dictionary](http://www.cnblogs.com/zhjh256/p/6428333.html)
-
 ## 语言基础
 
 ### String to Integer、Double
