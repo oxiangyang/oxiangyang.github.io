@@ -11,9 +11,9 @@ keywords: 程序员, 开发, 技术文章, 技术经验, 技术开发
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2021
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: share/oxiangyang.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -58,11 +58,11 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Zhuang Ma
-organization: 
-organization_url: 
+organization: 豫ICP备18032803号-1
+organization_url: https://beian.miit.gov.cn
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: Zhengzhou, China
+email: yuanxy@gmail.com
 
 # ---------------- #
 #    Navigation    #
