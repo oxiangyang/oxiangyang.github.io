@@ -20,7 +20,7 @@ cdn:
         enabled: false
 # 可选组件配置
 footer:
-  copyright: "© 2024 Your Website Name"
+  copyright: "© 2024 开发技术经验分享"
   icp_number: "豫ICP备18032803号-1"
   icp_url: "https://beian.miit.gov.cn/"
 
