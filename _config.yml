@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: http://www.yuanxy.com
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 技术文章分享
+subtitle: "开发技术经验分享"
+description: "我是个程序员，在这里分享技术经验"
+keywords: 程序员, 开发, 技术文章, 技术经验, 技术开发
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
